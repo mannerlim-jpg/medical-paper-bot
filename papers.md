@@ -85,3 +85,36 @@
   * **링크:** http://arxiv.org/abs/2412.09962v1
 * **제목:** Coherence Learning using Keypoint-based Pooling Network for Accurately Assessing Radiographic Knee Osteoarthritis
   * **링크:** http://arxiv.org/abs/2112.09177v1
+
+
+## 📅 2026-02-23 신규 논문 브리핑
+
+### 🤖 로봇 보조 수술 (Robot-Assisted)
+* **제목:** Voice control interface for surgical robot assistants
+  * **원문링크:** <https://arxiv.org/abs/2409.10225v1>
+* **제목:** Task segmentation based on transition state clustering for surgical robot assistance
+  * **원문링크:** <https://arxiv.org/abs/2406.09990v1>
+* **제목:** Gaze-based Learning from Demonstration In Surgical Robotics
+  * **원문링크:** <https://arxiv.org/abs/2311.00313v1>
+* **제목:** Toward Zero-Shot Learning for Visual Dehazing of Urological Surgical Robots
+  * **원문링크:** <https://arxiv.org/abs/2410.01395v1>
+* **제목:** MEDiC: Autonomous Surgical Robotic Assistance to Maximizing Exposure for Dissection and Cautery
+  * **원문링크:** <https://arxiv.org/abs/2409.14287v1>
+
+### 🦶 발목 및 족부 (Ankle & Foot)
+* **제목:** Image Guidance for Robot-Assisted Ankle Fracture Repair
+  * **원문링크:** <https://arxiv.org/abs/2303.08105v2>
+* **제목:** A multi-stage semi-supervised learning for ankle fracture classification on CT images
+  * **원문링크:** <https://arxiv.org/abs/2403.19983v1>
+
+### 🦵 무릎 및 인공관절 (Knee & TKR)
+* **제목:** Self-supervised Depth Estimation to Regularise Semantic Segmentation in Knee Arthroscopy
+  * **원문링크:** <https://arxiv.org/abs/2007.02361v1>
+* **제목:** Deep learning predicts total knee replacement from magnetic resonance images
+  * **원문링크:** <https://arxiv.org/abs/2002.10591v1>
+* **제목:** Estimation of Time-to-Total Knee Replacement Surgery
+  * **원문링크:** <https://arxiv.org/abs/2405.00069v1>
+* **제목:** MR-Transformer: Vision Transformer for Total Knee Replacement Prediction Using Magnetic Resonance Imaging
+  * **원문링크:** <https://arxiv.org/abs/2405.02784v1>
+* **제목:** The Role of Radiographic Knee Alignment in Total Knee Replacement Outcomes and Opportunities for Artificial Intelligence-Driven Assessment
+  * **원문링크:** <https://arxiv.org/abs/2508.10941v2>

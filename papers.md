@@ -118,3 +118,26 @@
   * **원문링크:** <https://arxiv.org/abs/2405.02784v1>
 * **제목:** The Role of Radiographic Knee Alignment in Total Knee Replacement Outcomes and Opportunities for Artificial Intelligence-Driven Assessment
   * **원문링크:** <https://arxiv.org/abs/2508.10941v2>
+
+
+## 📅 2026-02-23 신규 논문 브리핑
+
+### 🦵 일반 TKR 및 인공관절 (General TKR)
+* **제목:** SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty
+  * **원문:** https://arxiv.org/abs/2208.03945v1
+* **제목:** Range of Motion Sensors for Monitoring Recovery of Total Knee Arthroplasty
+  * **원문:** https://arxiv.org/abs/2207.00190v1
+* **제목:** Real-time Surgical Tools Recognition in Total Knee Arthroplasty Using Deep Neural Networks
+  * **원문:** https://arxiv.org/abs/1806.02031v1
+* **제목:** Deep learning predicts total knee replacement from magnetic resonance images
+  * **원문:** https://arxiv.org/abs/2002.10591v1
+* **제목:** MR-Transformer: Vision Transformer for Total Knee Replacement Prediction Using Magnetic Resonance Imaging
+  * **원문:** https://arxiv.org/abs/2405.02784v1
+
+### 🔍 무릎 및 발목 관절경 (Arthroscopy)
+* **제목:** Self-supervised Depth Estimation to Regularise Semantic Segmentation in Knee Arthroscopy
+  * **원문:** https://arxiv.org/abs/2007.02361v1
+* **제목:** States of confusion: Eye and Head tracking reveal surgeons' confusion during arthroscopic surgery
+  * **원문:** https://arxiv.org/abs/2106.06261v1
+* **제목:** Towards Robotic Knee Arthroscopy: Multi-Scale Network for Tissue-Tool Segmentation
+  * **원문:** https://arxiv.org/abs/2110.02657v1

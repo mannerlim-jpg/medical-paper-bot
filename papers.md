@@ -16,3 +16,72 @@
 ### 📅 2026-02-23 신규 논문 알림
 * **제목:** Towards Robotic Knee Arthroscopy: Multi-Scale Network for Tissue-Tool Segmentation
   * **링크:** http://arxiv.org/abs/2110.02657v1
+
+
+## 📅 2026-02-23 지능형 논문 분류 보고
+
+### 🤖 로봇 보조 수술 (Robot-Assisted)
+* **제목:** A New 4-DOF Robot for Rehabilitation of Knee and Ankle-Foot Complex: Simulation and Experiment
+  * **링크:** http://arxiv.org/abs/2011.04230v1
+* **제목:** ROSA: A Knowledge-based Solution for Robot Self-Adaptation
+  * **링크:** http://arxiv.org/abs/2505.00733v1
+* **제목:** High-level robot programming based on CAD: dealing with unpredictable environments
+  * **링크:** http://arxiv.org/abs/1309.2086v1
+* **제목:** Exploring Large Language Models to Facilitate Variable Autonomy for Human-Robot Teaming
+  * **링크:** http://arxiv.org/abs/2312.07214v3
+* **제목:** Unwinding Rotations Improves User Comfort with Immersive Telepresence Robots
+  * **링크:** http://arxiv.org/abs/2201.02392v1
+* **제목:** High-level programming and control for industrial robotics: using a hand-held accelerometer-based input device for gesture and posture recognition
+  * **링크:** http://arxiv.org/abs/1309.2093v1
+* **제목:** Robot Vulnerability and the Elicitation of User Empathy
+  * **링크:** http://arxiv.org/abs/2401.02684v1
+* **제목:** Characterizing Input Methods for Human-to-robot Demonstrations
+  * **링크:** http://arxiv.org/abs/1902.00084v1
+* **제목:** One-Shot Reinforcement Learning for Robot Navigation with Interactive Replay
+  * **링크:** http://arxiv.org/abs/1711.10137v2
+* **제목:** What Can You Say to a Robot? Capability Communication Leads to More Natural Conversations
+  * **링크:** http://arxiv.org/abs/2502.01448v1
+* **제목:** LLM-based ambiguity detection in natural language instructions for collaborative surgical robots
+  * **링크:** http://arxiv.org/abs/2507.11525v1
+* **제목:** What Am I? Evaluating the Effect of Language Fluency and Task Competency on the Perception of a Social Robot
+  * **링크:** http://arxiv.org/abs/2410.11085v1
+* **제목:** Users' Perception on Appropriateness of Robotic Coaching Assistant's Disclosure Behaviors
+  * **링크:** http://arxiv.org/abs/2410.10550v1
+* **제목:** Ankle Joints Are Beneficial When Optimizing Supported Real-world Bipedal Robot Gaits
+  * **링크:** http://arxiv.org/abs/2105.10764v1
+* **제목:** Play Everywhere: A Temporal Logic based Game Environment Independent Approach for Playing Soccer with Robots
+  * **링크:** http://arxiv.org/abs/2405.12628v1
+* **제목:** CLIPSwarm: Converting text into formations of robots
+  * **링크:** http://arxiv.org/abs/2311.11047v1
+* **제목:** Let's move on: Topic Change in Robot-Facilitated Group Discussions
+  * **링크:** http://arxiv.org/abs/2504.02123v1
+* **제목:** Human-Robot collaboration in surgery: Advances and challenges towards autonomous surgical assistants
+  * **링크:** http://arxiv.org/abs/2507.11460v1
+
+### 🦶 발목 및 족부 (Ankle & Foot)
+* **제목:** Re-weighting of somatosensory inputs from the foot and the ankle for controlling posture during quiet standing following trunk extensor muscles fatigue
+  * **링크:** http://arxiv.org/abs/0802.1907v1
+* **제목:** A Multi-View High-Resolution Foot-Ankle Complex Point Cloud Dataset During Gait for Occlusion-Robust 3D Completion
+  * **링크:** http://arxiv.org/abs/2507.11037v1
+* **제목:** A unique mechanism generating the knee and the ankle in the local galactic zone
+  * **링크:** http://arxiv.org/abs/astro-ph/0701521v1
+* **제목:** Maximum-Entropy-Rate Selection of Features for Classifying Changes in Knee and Ankle Dynamics During Running
+  * **링크:** http://arxiv.org/abs/2501.13750v1
+* **제목:** Cosmic Rays from the Knee to the Ankle - Status and Prospects -
+  * **링크:** http://arxiv.org/abs/astro-ph/0611884v1
+* **제목:** XAI-based gait analysis of patients walking with Knee-Ankle-Foot orthosis using video cameras
+  * **링크:** http://arxiv.org/abs/2402.16175v1
+* **제목:** Force Myography based Torque Estimation in Human Knee and Ankle Joints
+  * **링크:** http://arxiv.org/abs/2409.11061v2
+* **제목:** A Multichannel RF Transceiver Array with mixed L-C loop and microstrip elements for Foot/Ankle MR Imaging at 7T
+  * **링크:** http://arxiv.org/abs/2208.11759v1
+
+### 🦵 무릎 및 일반 관절경 (Knee & General)
+* **제목:** SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty
+  * **링크:** http://arxiv.org/abs/2208.03945v1
+* **제목:** AutoCOR: Autonomous Condylar Offset Ratio Calculator on TKA-Postoperative Lateral Knee X-ray
+  * **링크:** http://arxiv.org/abs/2204.03120v1
+* **제목:** Generating 3D Pseudo-Healthy Knee MR Images to Support Trochleoplasty Planning
+  * **링크:** http://arxiv.org/abs/2412.09962v1
+* **제목:** Coherence Learning using Keypoint-based Pooling Network for Accurately Assessing Radiographic Knee Osteoarthritis
+  * **링크:** http://arxiv.org/abs/2112.09177v1

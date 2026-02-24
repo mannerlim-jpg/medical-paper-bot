@@ -141,3 +141,18 @@
   * **원문:** https://arxiv.org/abs/2106.06261v1
 * **제목:** Towards Robotic Knee Arthroscopy: Multi-Scale Network for Tissue-Tool Segmentation
   * **원문:** https://arxiv.org/abs/2110.02657v1
+
+
+## 📅 2026-02-24 신규 논문 브리핑
+
+### 🦵 일반 TKR 및 인공관절 (General TKR)
+* **제목:** The Role of Radiographic Knee Alignment in Total Knee Replacement Outcomes and Opportunities for Artificial Intelligence-Driven Assessment
+  * **원문:** https://arxiv.org/abs/2508.10941v2
+* **제목:** A Progressive Risk Formulation for Enhanced Deep Learning based Total Knee Replacement Prediction in Knee Osteoarthritis
+  * **원문:** https://arxiv.org/abs/2406.10119v2
+* **제목:** Evidence-aware multi-modal data fusion and its application to total knee replacement prediction
+  * **원문:** https://arxiv.org/abs/2303.13810v1
+* **제목:** Estimation of Time-to-Total Knee Replacement Surgery
+  * **원문:** https://arxiv.org/abs/2405.00069v1
+* **제목:** Fully automated workflow for designing patient-specific orthopaedic implants: application to total knee arthroplasty
+  * **원문:** https://arxiv.org/abs/2403.15353v3

@@ -156,3 +156,18 @@
   * **원문:** https://arxiv.org/abs/2405.00069v1
 * **제목:** Fully automated workflow for designing patient-specific orthopaedic implants: application to total knee arthroplasty
   * **원문:** https://arxiv.org/abs/2403.15353v3
+
+
+## 📅 2026-02-25 신규 논문 브리핑
+
+### 🦵 일반 TKR 및 인공관절 (General TKR)
+* **제목:** Improving Generalization in MRI-Based Deep Learning Models for Total Knee Replacement Prediction
+  * **원문:** https://arxiv.org/abs/2504.19203v7
+* **제목:** High-Performance and Distributed Computing in a Probabilistic Finite Element Comparison Study of the Human Lower Leg Model with Total Knee Replacement
+  * **원문:** https://arxiv.org/abs/1611.07297v4
+* **제목:** Simulating Wear On Total Knee Replacements
+  * **원문:** https://arxiv.org/abs/1704.08307v1
+* **제목:** AutoCOR: Autonomous Condylar Offset Ratio Calculator on TKA-Postoperative Lateral Knee X-ray
+  * **원문:** https://arxiv.org/abs/2204.03120v1
+* **제목:** Tibial Implant Fixation in TKA Worth A Revision? -- How to Avoid Stress-Shielding Even for Stiff Metallic Implants
+  * **원문:** https://arxiv.org/abs/1908.09611v2

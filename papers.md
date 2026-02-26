@@ -171,3 +171,16 @@
   * **원문:** https://arxiv.org/abs/2204.03120v1
 * **제목:** Tibial Implant Fixation in TKA Worth A Revision? -- How to Avoid Stress-Shielding Even for Stiff Metallic Implants
   * **원문:** https://arxiv.org/abs/1908.09611v2
+
+
+## 📅 2026-02-26 신규 논문 브리핑
+
+### 🦵 일반 TKR 및 인공관절 (General TKR)
+* **제목:** Joint Track Machine Learning: An autonomous method for measuring 6DOF TKA kinematics from single-plane x-ray images
+  * **원문:** https://arxiv.org/abs/2205.00057v1
+* **제목:** Comparison of various UHMWPE formulations from contemporary total knee replacements before and after accelerated aging
+  * **원문:** https://arxiv.org/abs/2503.02544v1
+* **제목:** A Survey of Galaxy Kinematics to z ~ 1 in the TKRS/GOODS-N Field. I. Rotation and Dispersion Properties
+  * **원문:** https://arxiv.org/abs/astro-ph/0609090v1
+* **제목:** A Survey of Galaxy Kinematics to z ~ 1 in the TKRS/GOODS-N Field. II. Evolution in the Tully-Fisher Relation
+  * **원문:** https://arxiv.org/abs/astro-ph/0609091v1
